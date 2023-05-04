@@ -1,0 +1,11 @@
+.tableitem {
+    text-align: center;
+    overflow: hidden;
+    overflow-x:scroll;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:start;
+    align-items: center;
+    font-weight: bold;
+ }

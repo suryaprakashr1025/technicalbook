@@ -1,0 +1,21 @@
+.register {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-weight: bold;
+  
+}
+.errortext{
+    color: red;
+    font-weight:lighter;
+}
+.error-box{
+   border: 1px solid red !important;
+}
+
+.success-box{
+    border: 1px solid green;
+}
